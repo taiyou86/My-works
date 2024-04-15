@@ -48,7 +48,7 @@ header {
 .hero{
   height: 420px;
   width: 100%;
-  margin: 0 5px;
+  
 }
 
 .hero img {
@@ -101,8 +101,12 @@ main {
   text-align: center;
 }
 
+.image{
+  width: 100%;
+}
+
 .Work img {
-  max-width: 1000px;
+  width: 100%;
   padding-top: 30px;
 }
 
